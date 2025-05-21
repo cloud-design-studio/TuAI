@@ -1,4 +1,4 @@
-# Object detection app using YOLOv8 and Android
+# Object detection app using YOLOv11 and Android
 
 ### Check the video to understand the code: https://youtu.be/dl7rCmvIyiI
 
